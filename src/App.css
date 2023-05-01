@@ -1,0 +1,70 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .container
+{
+    width: 1000px;
+    margin: auto!important;
+    
+} */
+.title
+{
+  border: 1px solid black;
+  text-align: center;
+  margin-top: 30px;
+  padding: 10px;
+  color: teal;
+  font-family: calibri;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.formarea
+{
+  border: 1px solid black;
+  text-align: left;
+  margin-top: 30px;
+  padding-top: 30px;
+}
+#rno
+{
+  width: 100px;
+}
+.formarea div
+{
+  margin-bottom: 10px;
+}
+.form-control
+{
+  padding: 10px;
+  font-size: 18px;
+}
+label
+{
+ font-weight: bold;
+ font-size: 16px;
+ padding-left: 40px;
+}
+input
+{
+  padding: 5px;
+  width: 70%;
+}
+.btn
+{
+  padding: 10px 30px!important;
+  margin: 1% 0 2% 0;
+
+}
+.del
+{
+  cursor: pointer;
+  color: red!important;
+  font-size: 20px;
+}
+.del:hover
+{
+  color: red!important;
+}
