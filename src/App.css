@@ -4,12 +4,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-/* .container
-{
-    width: 1000px;
-    margin: auto!important;
-    
-} */
+
 .title
 {
   border: 1px solid black;
@@ -34,7 +29,7 @@
 }
 .formarea div
 {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 .form-control
 {
